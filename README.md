@@ -1,5 +1,5 @@
-- 👋 Hi there! I am a Data Analyst graduated in Mathematics, working in the Accounting/Tax sector; and passionate about technologies and programming.
-- 🌱 I’m currently learning Machine Learning.
+- 👋 Hi there! I am a Data Analyst/Data Scientist graduated in Mathematics, working as Business Intelligence Analyst; and passionate about technologies and programming.
+- 🌱 I’m currently Data Engineering.
 - 📫 How to reach me: ranieri.imperatori@gmail.com
 
 <!---
