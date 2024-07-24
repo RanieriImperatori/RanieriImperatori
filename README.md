@@ -1,4 +1,4 @@
-- 👋 Hi there! I am a Data Analyst/Data Scientist/Data Engineer graduated in Mathematics, working as Analytic Engineer; and passionate about technologies and programming.
+- 👋 Hi there! I am a Data Scientist/Machine Learning Engineer graduated in Mathematics, working in Hospital Israelita Albert Einstein; and passionate about technologies and programming.
 
 - 📫 How to reach me: ranieri.imperatori@gmail.com
 
