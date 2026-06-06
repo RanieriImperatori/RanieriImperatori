@@ -1,4 +1,4 @@
-- 👋 Hi there! I am a Data Scientist/Machine Learning Engineer graduated in Mathematics, working in Hospital Israelita Albert Einstein; and passionate about technologies and programming.
+- 👋 Hi there! I am a Data Scientist/Machine Learning Engineer and Bioinformatician, working at the Multiomics Center of **Einstein Hospital Israelita**.
 
 - 📫 How to reach me: ranieri.imperatori@gmail.com
 
